@@ -125,16 +125,6 @@
     background: #FFF;
 }
 
-
-
-
-
-
-
-
-
-
-
 .rodape{
     padding: 30px;
     margin-top: 40px;
@@ -182,6 +172,12 @@ iframe{
     font-family: 'Anton', sans-serif;
     letter-spacing: 3px;
     text-transform: uppercase;
+}
+
+.video{
+    font-family: 'Anton', sans-serif;
+    color: #8f2424;
+    letter-spacing: 2px;
 }
 
 /*PAGINA ESTADIO*/
